@@ -1,0 +1,61 @@
+body {
+    font-family:Arial, Helvetica, sans-serif
+}
+
+#top {
+    text-align: center;
+    
+}
+ #logo {
+        color:rgb(255, 255, 255);
+        background-color:pink;
+        display: inline-block;
+        font-size: 32px;
+        font-weight: bold;
+        padding: 8px;
+        margin-top: 20px;
+
+}
+
+#logo-name {
+    font-size: 32px;
+    font-weight:bold;
+    margin:18px;
+
+}
+
+#navigation a {
+    color: rgb(241, 132, 150);
+    padding: 8px;
+
+}
+
+#navigation a:hover {
+    color:deeppink
+
+
+}
+
+#top-image img {
+    width: 100%;
+    margin-top: 16px;
+    margin-bottom: 16px;
+
+}
+
+
+#main {
+    max-width: 800px;
+    margin: auto;
+
+}
+
+#footer{
+    text-align: center;
+    color:indigo;
+    padding: 16px;
+
+
+}
+
+

@@ -27,11 +27,18 @@ body {
 #navigation a {
     color: rgb(241, 132, 150);
     padding: 8px;
+    text-decoration: none;
+    font-weight: 600;
+
 
 }
 
 #navigation a:hover {
-    color:deeppink
+    color:deeppink;
+    text-decoration: underline
+
+    
+
 
 
 }
